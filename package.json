@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/VK14133M02/json-mock-server/issues"
   },
-  "homepage": "https://github.com/VK14133M02/json-mock-server#readme"
+  "homepage": "https://github.com/VK14133M02/json-mock-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.2"
+  }
 }
