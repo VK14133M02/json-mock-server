@@ -1,0 +1,21 @@
+{
+  "name": "json-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch db.json --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VK14133M02/json-mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VK14133M02/json-mock-server/issues"
+  },
+  "homepage": "https://github.com/VK14133M02/json-mock-server#readme"
+}
