@@ -14,5 +14,14 @@
       "author": "Rajamauli",
       "price": 369
     }
+  ],
+
+  "food": [
+    {
+      "id": 1,
+      "title": "Masal Dosa",
+      "origin": "south india",
+      "price": 369
+    }
   ]
 }
